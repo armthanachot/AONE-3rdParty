@@ -1,0 +1,8 @@
+[
+  { "geoId": 1, "geoName": "ภาคเหนือ" },
+  { "geoId": 2, "geoName": "ภาคกลาง" },
+  { "geoId": 3, "geoName": "ภาคตะวันออกเฉียงเหนือ" },
+  { "geoId": 4, "geoName": "ภาคตะวันตก" },
+  { "geoId": 5, "geoName": "ภาคตะวันออก" },
+  { "geoId": 6, "geoName": "ภาคใต้" }
+]
